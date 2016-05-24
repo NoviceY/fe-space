@@ -14,7 +14,8 @@ fe-space
  学习grunt过程中使用的一些插件用法。
  + [pure css](https://github.com/natee/fe-space/tree/master/k_pure)   
  学习YUI的pure css框架。
-###记录下常用的正则检验###
+记录下常用的正则检验
+===================
 校验数字的表达式
 -------------
    + 1 数字：^[0-9]*$ 
